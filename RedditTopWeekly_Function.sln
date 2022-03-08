@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditTopWeekly_Function", "RedditTopWeekly_Function\RedditTopWeekly_Function.csproj", "{6CD68F89-ECC7-46A1-B82E-F6373B94B59B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{CBC26431-0A14-454B-B6EA-C1727D69A515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{07054E0C-89B4-4EE2-BB61-9419083C2074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reddit.MetaData", "Reddit.MetaData\Reddit.MetaData.csproj", "{CAB82857-E8FA-45BD-A00E-A331309AF453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD68F89-ECC7-46A1-B82E-F6373B94B59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD68F89-ECC7-46A1-B82E-F6373B94B59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD68F89-ECC7-46A1-B82E-F6373B94B59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD68F89-ECC7-46A1-B82E-F6373B94B59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC26431-0A14-454B-B6EA-C1727D69A515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC26431-0A14-454B-B6EA-C1727D69A515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC26431-0A14-454B-B6EA-C1727D69A515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC26431-0A14-454B-B6EA-C1727D69A515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07054E0C-89B4-4EE2-BB61-9419083C2074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07054E0C-89B4-4EE2-BB61-9419083C2074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07054E0C-89B4-4EE2-BB61-9419083C2074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07054E0C-89B4-4EE2-BB61-9419083C2074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB82857-E8FA-45BD-A00E-A331309AF453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB82857-E8FA-45BD-A00E-A331309AF453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB82857-E8FA-45BD-A00E-A331309AF453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB82857-E8FA-45BD-A00E-A331309AF453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3247EA20-6A43-470D-B6D0-B865E633925A}
+	EndGlobalSection
+EndGlobal
